@@ -94,6 +94,7 @@ pbs = pd.read_csv("data/pbs.csv", parse_dates=["Month"])
 | `tourism.xlsx` | Australian tourism (Excel format) |
 | `tute1.csv` | Tutorial dataset 1 |
 | `us_employment.csv` | US employment by sector |
+| `turkey_elec.csv` | Turkish daily electricity demand 2000–2008 (single column, no header) |
 | `us_gasoline.csv` | US gasoline prices |
 | `us_total.csv` | US total employment |
 | `ustreas.csv` | US treasury bill rates |
